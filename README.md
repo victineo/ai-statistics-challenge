@@ -2,7 +2,7 @@
 
 This is a basic practical challenge about statistics for devs with Python.
 
-## Objetive
+## Objective
 * Show the average sales
 * Create a vertical bar chart showing the reference month and value
 * Create a line chart showing the reference month and value.
@@ -10,6 +10,9 @@ This is a basic practical challenge about statistics for devs with Python.
 I used pipenv to create a virtual environment to run this project with the correct libraries.
 
 ## Dependencies
+### pipenv
+pipenv is a dependency management tool for Python that allows creating and managing isolated virtual environments for projects, ensuring that dependencies are consistent and easy to manage.
+
 ### pandas
 pandas is an open-source library for data manipulation and analysis in Python, providing data structures and operations to work with structured data, including data import/export, merge, groupby, pivot, reshape, and more.
 
