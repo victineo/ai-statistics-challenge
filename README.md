@@ -1,5 +1,5 @@
 # ai-statistics-challenge
-This is a basic practical challenge about statistics for devs with Python.
+This is a basic practical challenge about **Statistics for Devs** with Python.
 
 Check the **develop** branch to see the `ipynb` file.
 
