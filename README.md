@@ -1,8 +1,6 @@
 # ai-statistics-challenge
 This is a basic practical challenge about **Statistics for Devs** with Python.
 
-Check the **develop** branch to see the `ipynb` file.
-
 ## Tasks
 * Show the average sales
 * Create a vertical bar chart showing the reference month and value
